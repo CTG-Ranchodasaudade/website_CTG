@@ -16,4 +16,14 @@
 
 }
 
-
+.photo-gallery__img:hover {
+  width: 25em;
+  height: 25em;
+  margin: 0;
+  position: absolute;
+  top: auto;
+  border-radius: 1em;
+  border: 3px solid black;
+  box-shadow: 1px 2px 4px #ff7f50;
+  transition: all 1s ease-in-out;
+}
