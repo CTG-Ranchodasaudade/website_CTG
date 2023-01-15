@@ -5,6 +5,8 @@ import { HomeComponent } from '../../pages/home/home.component'
 import { SliderShowComponent } from '../../components/slider-show/slider-show.component';
 import {CardArticleComponent} from '../../components/card-article/card-article.component';
 import {MidiaInstitucionalComponent} from '../../components/midia-institucional/midia-institucional.component';
+import {SpotifyComponent} from '../../components/spotify/spotify.component';
+import {ParceirosComponent} from '../../components/parceiros/parceiros.component';
 
 
 @NgModule({
@@ -12,11 +14,17 @@ import {MidiaInstitucionalComponent} from '../../components/midia-institucional/
     HomeComponent,
     SliderShowComponent,
     CardArticleComponent,
-    MidiaInstitucionalComponent
+    MidiaInstitucionalComponent,
+    SpotifyComponent,
+    ParceirosComponent
   ],
   exports: [
     HomeComponent,
-    SliderShowComponent
+    SliderShowComponent,
+    CardArticleComponent,
+    MidiaInstitucionalComponent,
+    SpotifyComponent,
+    ParceirosComponent
   ],
   imports: [
     CommonModule,
