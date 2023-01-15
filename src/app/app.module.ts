@@ -12,6 +12,7 @@ import { ContatoModule } from '../app/modules/contato/contato.module';
 import{MenuLogoComponent} from '../app/components/menu-logo/menu-logo.component'
 import {MenuBarComponent} from '../app/components/menu-bar/menu-bar.component';
 import { FooterDefaultComponent } from './components/footer-default/footer-default.component';
+import { WhatsappComponent } from './components/whatsapp/whatsapp.component';
 
 
 @NgModule({
@@ -19,7 +20,8 @@ import { FooterDefaultComponent } from './components/footer-default/footer-defau
     AppComponent,
     MenuLogoComponent,
     MenuBarComponent,
-    FooterDefaultComponent
+    FooterDefaultComponent,
+    WhatsappComponent
   ],
   imports: [
     BrowserModule,
