@@ -12,6 +12,8 @@ import {SubmenuBarComponent} from '../../components/submenu-bar/submenu-bar.comp
 
 import {AboutModule} from '../about/about.module';
 
+import {AppRoutingModule} from '../../app-routing.module';
+
 @NgModule({
   declarations: [
     ArtisticComponent,
@@ -34,7 +36,8 @@ import {AboutModule} from '../about/about.module';
   imports: [
     CommonModule,
     HomeModule,
-    AboutModule
+    AboutModule,
+    AppRoutingModule
   ]
 })
 export class ArtisticModule { }

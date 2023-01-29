@@ -14,6 +14,8 @@ import {MenuBarComponent} from '../app/components/menu-bar/menu-bar.component';
 import { FooterDefaultComponent } from './components/footer-default/footer-default.component';
 import { WhatsappComponent } from './components/whatsapp/whatsapp.component';
 
+import {SubmenuBarComponent} from '../app/components/submenu-bar/submenu-bar.component';
+
 
 @NgModule({
   declarations: [
@@ -21,7 +23,7 @@ import { WhatsappComponent } from './components/whatsapp/whatsapp.component';
     MenuLogoComponent,
     MenuBarComponent,
     FooterDefaultComponent,
-    WhatsappComponent
+    WhatsappComponent,
   ],
   imports: [
     BrowserModule,
