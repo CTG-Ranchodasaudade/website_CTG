@@ -65,14 +65,14 @@ export const dataInvernadas = [
       {
         "n":"1",
         "department":"Coordenação Adulta",
-        "name":"Fulano de tal 1",
-        "photo":"../../../assets/img/Comon/img_default.png"
+        "name":"Fernando Vasconcelos",
+        "photo":"../../../assets/img/About/galeria_patronagem/Fernando_Adulta-300.jpg"
       },
       {
         "n":"2",
         "department":"Coordenação adulta",
-        "name":"Fulano de tal 2",
-        "photo":"../../../assets/img/Comon/img_default.png"
+        "name":"Patrícia Fonseca",
+        "photo":"../../../assets/img/About/galeria_patronagem/Patricia_Adulta-300.jpg"
       },
       {
         "n":"3",
@@ -83,27 +83,39 @@ export const dataInvernadas = [
     ],
     "photos":[
       {"f":"1",
-      "photo":"../../../assets/img/Artistic/invernadas_adulta/invernada_adulta/invernada_adulta_1.jpg",
+      "photo":"../../../assets/img/Artistic/invernadas_adulta/galeriaInvernadaAdulta/adulta1-300.jpg",
       "description":""
       },
       {"f":"2",
-      "photo":"../../../assets/img/Artistic/invernadas_adulta/invernada_adulta/invernada_adulta_2.jpg",
+      "photo":"../../../assets/img/Artistic/invernadas_adulta/galeriaInvernadaAdulta/adulta2-300.jpg",
       "description":""
       },
       {"f":"3",
-      "photo":"../../../assets/img/Artistic/invernadas_adulta/invernada_adulta/invernada_adulta_3.jpg",
+      "photo":"../../../assets/img/Artistic/invernadas_adulta/galeriaInvernadaAdulta/adulta3-300.jpg",
       "description":""
       },
       {"f":"4",
-      "photo":"../../../assets/img/Artistic/invernadas_adulta/invernada_adulta/invernada_adulta_4.jpg",
+      "photo":"../../../assets/img/Artistic/invernadas_adulta/galeriaInvernadaAdulta/adulta4-300.jpg",
       "description":""
       },
       {"f":"5",
-      "photo":"../../../assets/img/Artistic/invernadas_adulta/invernada_adulta/invernada_adulta_5.jpg",
+      "photo":"../../../assets/img/Artistic/invernadas_adulta/galeriaInvernadaAdulta/adulta5-300.jpg",
       "description":""
       },
       {"f":"6",
-      "photo":"../../../assets/img/Artistic/invernadas_adulta/invernada_adulta/invernada_adulta.jpg",
+      "photo":"../../../assets/img/Artistic/invernadas_adulta/galeriaInvernadaAdulta/adulta6-300.jpg",
+      "description":""
+      },
+      {"f":"7",
+      "photo":"../../../assets/img/Artistic/invernadas_adulta/galeriaInvernadaAdulta/adulta7-300.jpg",
+      "description":""
+      },
+      {"f":"8",
+      "photo":"../../../assets/img/Artistic/invernadas_adulta/galeriaInvernadaAdulta/adulta8-300.jpg",
+      "description":""
+      },
+      {"f":"9",
+      "photo":"../../../assets/img/Artistic/invernadas_adulta/galeriaInvernadaAdulta/adulta9-300.jpg",
       "description":""
       },
     ]
@@ -173,15 +185,31 @@ export const dataInvernadas = [
     ],
     "photos":[
       {"f":"1",
-      "photo":"../../../assets/img/Artistic/invernadas_veterana/invernada_veterana/invernada_veterana.jpg",
+      "photo":"../../../assets/img/Artistic/invernadas_veterana/galeriaInvernadaVeterana/veterana1-300.jpg",
       "description":""
       },
       {"f":"2",
-      "photo":"../../../assets/img/Artistic/invernadas_veterana/invernada_veterana/invernada_veterana_1.jpg",
+      "photo":"../../../assets/img/Artistic/invernadas_veterana/galeriaInvernadaVeterana/veterana2-300.jpg",
       "description":""
       },
       {"f":"3",
-      "photo":"../../../assets/img/Artistic/invernadas_veterana/invernada_veterana/invernada_veterana_2.jpg",
+      "photo":"../../../assets/img/Artistic/invernadas_veterana/galeriaInvernadaVeterana/veterana3-300.jpg",
+      "description":""
+      },
+      {"f":"4",
+      "photo":"../../../assets/img/Artistic/invernadas_veterana/galeriaInvernadaVeterana/veterana4-300.jpg",
+      "description":""
+      },
+      {"f":"5",
+      "photo":"../../../assets/img/Artistic/invernadas_veterana/galeriaInvernadaVeterana/veterana5-300.jpg",
+      "description":""
+      },
+      {"f":"6",
+      "photo":"../../../assets/img/Artistic/invernadas_veterana/galeriaInvernadaVeterana/veterana6-300.jpg",
+      "description":""
+      },
+      {"f":"7",
+      "photo":"../../../assets/img/Artistic/invernadas_veterana/galeriaInvernadaVeterana/veterana7-300.jpg",
       "description":""
       },
     ]
@@ -214,8 +242,8 @@ export const dataInvernadas = [
       {
         "n":"1",
         "department":"Coordenação Juvenil",
-        "name":"Fulano de tal 1",
-        "photo":"../../../assets/img/Comon/img_default.png"
+        "name":"Adriano Cabral",
+        "photo":"../../../assets/img/About/galeria_patronagem/Adriano-300.jpg"
       },
       {
         "n":"2",
@@ -232,23 +260,43 @@ export const dataInvernadas = [
     ],
     "photos":[
       {"f":"1",
-      "photo":"../../../assets/img/Artistic/invernadas_juvenil/invernada_juvenil/invernada_juvenil.jpg",
+      "photo":"../../../assets/img/Artistic/invernadas_juvenil/galeriaInvernadaJuvenil/juvenil1-300.jpg",
       "description":""
       },
       {"f":"2",
-      "photo":"../../../assets/img/Artistic/invernadas_juvenil/invernada_juvenil/invernada_juvenil_1.jpg",
+      "photo":"../../../assets/img/Artistic/invernadas_juvenil/galeriaInvernadaJuvenil/juvenil2-300.jpg",
       "description":""
       },
       {"f":"3",
-      "photo":"../../../assets/img/Artistic/invernadas_juvenil/invernada_juvenil/invernada_juvenil_2.jpg",
+      "photo":"../../../assets/img/Artistic/invernadas_juvenil/galeriaInvernadaJuvenil/juvenil3-300.jpg",
       "description":""
       },
       {"f":"4",
-      "photo":"../../../assets/img/Artistic/invernadas_juvenil/invernada_juvenil/invernada_juvenil_3.jpg",
+      "photo":"../../../assets/img/Artistic/invernadas_juvenil/galeriaInvernadaJuvenil/juvenil4-300.jpg",
       "description":""
       },
       {"f":"5",
-      "photo":"../../../assets/img/Artistic/invernadas_juvenil/invernada_juvenil/invernada_juvenil_4.jpg",
+      "photo":"../../../assets/img/Artistic/invernadas_juvenil/galeriaInvernadaJuvenil/juvenil5-300.jpg",
+      "description":""
+      },
+      {"f":"6",
+      "photo":"../../../assets/img/Artistic/invernadas_juvenil/galeriaInvernadaJuvenil/juvenil6-300.jpg",
+      "description":""
+      },
+      {"f":"7",
+      "photo":"../../../assets/img/Artistic/invernadas_juvenil/galeriaInvernadaJuvenil/juvenil7-300.jpg",
+      "description":""
+      },
+      {"f":"8",
+      "photo":"../../../assets/img/Artistic/invernadas_juvenil/galeriaInvernadaJuvenil/juvenil8-300.jpg",
+      "description":""
+      },
+      {"f":"9",
+      "photo":"../../../assets/img/Artistic/invernadas_juvenil/galeriaInvernadaJuvenil/juvenil9-300.jpg",
+      "description":""
+      },
+      {"f":"10",
+      "photo":"../../../assets/img/Artistic/invernadas_juvenil/galeriaInvernadaJuvenil/juvenil10-300.jpg",
       "description":""
       },
     ]
@@ -277,8 +325,8 @@ export const dataInvernadas = [
       {
         "n":"1",
         "department":"Coordenação Mirim",
-        "name":"Fulano de tal 1",
-        "photo":"../../../assets/img/Comon/img_default.png"
+        "name":"Adriano Cabral",
+        "photo":"../../../assets/img/About/galeria_patronagem/Adriano-300.jpg"
       },
       {
         "n":"2",
@@ -295,39 +343,43 @@ export const dataInvernadas = [
     ],
     "photos":[
       {"f":"1",
-      "photo":"../../../assets/img/Artistic/invernadas_mirim/invernada_mirim/invernada_mirim.jpg",
+      "photo":"../../../assets/img/Artistic/invernadas_mirim/galeriaInvernadaMirim/mirim1-300.jpg",
       "description":""
       },
       {"f":"2",
-      "photo":"../../../assets/img/Artistic/invernadas_mirim/invernada_mirim/invernada_mirim_1.jpg",
+      "photo":"../../../assets/img/Artistic/invernadas_mirim/galeriaInvernadaMirim/mirim2-300.jpg",
       "description":""
       },
       {"f":"3",
-      "photo":"../../../assets/img/Artistic/invernadas_mirim/invernada_mirim/invernada_mirim_2.jpg",
+      "photo":"../../../assets/img/Artistic/invernadas_mirim/galeriaInvernadaMirim/mirim3-300.jpg",
       "description":""
       },
       {"f":"4",
-      "photo":"../../../assets/img/Artistic/invernadas_mirim/invernada_mirim/invernada_mirim_3.jpg",
+      "photo":"../../../assets/img/Artistic/invernadas_mirim/galeriaInvernadaMirim/mirim4-300.jpg",
       "description":""
       },
       {"f":"5",
-      "photo":"../../../assets/img/Artistic/invernadas_mirim/invernada_mirim/invernada_mirim_4.jpg",
+      "photo":"../../../assets/img/Artistic/invernadas_mirim/galeriaInvernadaMirim/mirim5-300.jpg",
       "description":""
       },
       {"f":"6",
-      "photo":"../../../assets/img/Artistic/invernadas_mirim/invernada_mirim/invernada_mirim_5.jpg",
+      "photo":"../../../assets/img/Artistic/invernadas_mirim/galeriaInvernadaMirim/mirim6-300.jpg",
       "description":""
       },
       {"f":"7",
-      "photo":"../../../assets/img/Artistic/invernadas_mirim/invernada_mirim/invernada_mirim_6.jpg",
+      "photo":"../../../assets/img/Artistic/invernadas_mirim/galeriaInvernadaMirim/mirim7-300.jpg",
       "description":""
       },
       {"f":"8",
-      "photo":"../../../assets/img/Artistic/invernadas_mirim/invernada_mirim/invernada_mirim_7.jpg",
+      "photo":"../../../assets/img/Artistic/invernadas_mirim/galeriaInvernadaMirim/mirim8-300.jpg",
       "description":""
       },
       {"f":"9",
-      "photo":"../../../assets/img/Artistic/invernadas_mirim/invernada_mirim/invernada_mirim_8.jpg",
+      "photo":"../../../assets/img/Artistic/invernadas_mirim/galeriaInvernadaMirim/mirim9-300.jpg",
+      "description":""
+      },
+      {"f":"10",
+      "photo":"../../../assets/img/Artistic/invernadas_mirim/galeriaInvernadaMirim/mirim10-300.jpg",
       "description":""
       }
 
@@ -349,8 +401,8 @@ export const dataInvernadas = [
       {
         "n":"1",
         "department":"Coordenação Xiru",
-        "name":"Fulano de tal 1",
-        "photo":"../../../assets/img/Comon/img_default.png"
+        "name":"Diego Timm",
+        "photo":"../../../assets/img/About/galeria_patronagem/DiegoTimm-300.jpg"
       },
       {
         "n":"2",
@@ -367,19 +419,27 @@ export const dataInvernadas = [
     ],
     "photos":[
       {"f":"1",
-      "photo":"../../../assets/img/Artistic/invernadas_xiru/invernada_xiru/invernada_xiru.jpg",
+      "photo":"../../../assets/img/Artistic/invernadas_xiru/galeriaInvernadaXiru/xiru1-300.jpg",
       "description":""
       },
       {"f":"2",
-      "photo":"../../../assets/img/Artistic/invernadas_xiru/invernada_xiru/invernada_xiru_1.jpg",
+      "photo":"../../../assets/img/Artistic/invernadas_xiru/galeriaInvernadaXiru/xiru2-300.jpg",
       "description":""
       },
       {"f":"3",
-      "photo":"../../../assets/img/Artistic/invernadas_xiru/invernada_xiru/invernada_xiru_2.jpg",
+      "photo":"../../../assets/img/Artistic/invernadas_xiru/galeriaInvernadaXiru/xiru3-300.jpg",
       "description":""
       },
       {"f":"4",
-      "photo":"../../../assets/img/Artistic/invernadas_xiru/invernada_xiru/invernada_xiru_3.jpg",
+      "photo":"../../../assets/img/Artistic/invernadas_xiru/galeriaInvernadaXiru/xiru4-300.jpg",
+      "description":""
+      },
+      {"f":"5",
+      "photo":"../../../assets/img/Artistic/invernadas_xiru/galeriaInvernadaXiru/xiru5-300.jpg",
+      "description":""
+      },
+      {"f":"6",
+      "photo":"../../../assets/img/Artistic/invernadas_xiru/galeriaInvernadaXiru/xiru6-300.jpg",
       "description":""
       },
     ]
@@ -406,8 +466,8 @@ export const dataInvernadas = [
       {
         "n":"2",
         "department":"Coordenação Escolinha",
-        "name":"Fulano de tal 2",
-        "photo":"../../../assets/img/Comon/img_default.png"
+        "name":"Ângela Bortolozo",
+        "photo":"../../../assets/img/About/galeria_patronagem/Angela_Escolhinha-300.jpg"
       },
       {
         "n":"3",
@@ -418,15 +478,15 @@ export const dataInvernadas = [
     ],
     "photos":[
       {"f":"1",
-      "photo":"../../../assets/img/Comon/img_default.png",
+      "photo":"../../../assets/img/Artistic/escolinha/escolhinha1-300.jpg",
       "description":""
       },
       {"f":"2",
-      "photo":"../../../assets/img/Comon/img_default.png",
+      "photo":"../../../assets/img/Artistic/escolinha/escolhinha2-300.jpg",
       "description":""
       },
       {"f":"3",
-      "photo":"../../../assets/img/Comon/img_default.png",
+      "photo":"../../../assets/img/Artistic/escolinha/escolhinha3-300.jpg",
       "description":""
       },
       {"f":"4",
@@ -520,39 +580,39 @@ export const dataInvernadas = [
     ],
     "photos":[
       {"f":"1",
-      "photo":"../../../assets/img/Campeira/departamento_campeiro.jpg",
+      "photo":"../../../assets/img/Campeira/campeira1-300.jpg",
       "description":""
       },
       {"f":"2",
-      "photo":"../../../assets/img/Campeira/departamento_campeiro_1.jpg",
+      "photo":"../../../assets/img/Campeira/campeira2-300.jpg",
       "description":""
       },
       {"f":"3",
-      "photo":"../../../assets/img/Campeira/departamento_campeiro_2.jpg",
+      "photo":"../../../assets/img/Campeira/campeira3-300.jpg",
       "description":""
       },
       {"f":"4",
-      "photo":"../../../assets/img/Campeira/departamento_campeiro_3.jpg",
+      "photo":"../../../assets/img/Campeira/campeira4-300.jpg",
       "description":""
       },
       {"f":"5",
-      "photo":"../../../assets/img/Campeira/departamento_campeiro_4.jpg",
+      "photo":"../../../assets/img/Campeira/campeira5-300.jpg",
       "description":""
       },
       {"f":"6",
-      "photo":"../../../assets/img/Campeira/departamento_campeiro_5.jpg",
+      "photo":"../../../assets/img/Campeira/campeira6-300.jpg",
       "description":""
       },
       {"f":"7",
-      "photo":"../../../assets/img/Campeira/departamento_campeiro_6.jpg",
+      "photo":"../../../assets/img/Campeira/campeira7-300.jpg",
       "description":""
       },
       {"f":"8",
-      "photo":"../../../assets/img/Campeira/departamento_campeiro_7.jpg",
+      "photo":"../../../assets/img/Campeira/campeira8-300.jpg",
       "description":""
       },
       {"f":"9",
-      "photo":"../../../assets/img/Campeira/departamento_campeiro_8.jpg",
+      "photo":"../../../assets/img/Campeira/campeira9-300.jpg",
       "description":""
       },
     ]
@@ -591,39 +651,43 @@ export const dataInvernadas = [
     ],
     "photos":[
       {"f":"1",
-      "photo":"../../../assets/img/Cultural/departamento_cultural.jpg",
+      "photo":"../../../assets/img/Cultural/cultural1-300.jpg",
       "description":""
       },
       {"f":"2",
-      "photo":"../../../assets/img/Cultural/departamento_cultural_1.jpg",
+      "photo":"../../../assets/img/Cultural/cultural2-300.jpg",
       "description":""
       },
       {"f":"3",
-      "photo":"../../../assets/img/Cultural/departamento_cultural_2.jpg",
+      "photo":"../../../assets/img/Cultural/cultural3-300.jpg",
       "description":""
       },
       {"f":"4",
-      "photo":"../../../assets/img/Comon/img_default.png",
+      "photo":"../../../assets/img/Cultural/cultural4-300.jpg",
       "description":""
       },
       {"f":"5",
-      "photo":"../../../assets/img/Comon/img_default.png",
+      "photo":"../../../assets/img/Cultural/cultural5-300.jpg",
       "description":""
       },
       {"f":"6",
-      "photo":"../../../assets/img/Comon/img_default.png",
+      "photo":"../../../assets/img/Cultural/cultural6-300.jpg",
       "description":""
       },
       {"f":"7",
-      "photo":"../../../assets/img/Comon/img_default.png",
+      "photo":"../../../assets/img/Cultural/cultural7-300.jpg",
       "description":""
       },
       {"f":"8",
-      "photo":"../../../assets/img/Comon/img_default.png",
+      "photo":"../../../assets/img/Cultural/cultural8-300.jpg",
       "description":""
       },
       {"f":"9",
-      "photo":"../../../assets/img/Comon/img_default.png",
+      "photo":"../../../assets/img/Cultural/cultural9-300.jpg",
+      "description":""
+      },
+      {"f":"10",
+      "photo":"../../../assets/img/Cultural/cultural10-300.jpg",
       "description":""
       },
     ]
